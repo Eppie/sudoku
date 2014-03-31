@@ -9,3 +9,7 @@ if rearrangement:
 small struct:
 0.021874600340416883
 86.82%
+
+remove getran:
+0.022671616499710334
+89.98%
