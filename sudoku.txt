@@ -5,3 +5,7 @@ initial:
 if rearrangement:
 0.023749728837269276
 94.26%
+
+small struct:
+0.021874600340416883
+86.82%
