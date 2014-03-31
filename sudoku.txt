@@ -22,3 +22,6 @@ region calculation
 0.016396744330138366
 65.07%
 
+multiprocessing
+0.004226364744342146
+16.77%
